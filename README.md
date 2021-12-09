@@ -1,0 +1,4 @@
+### Introduction
+
+
+This project aims to use a Logistic Regression Classifier along with traditional machine learning feature extraction techniques, to identify hate speech on the Twitter social media platform. It demonstrates the key processes involved in a text cleaning workflow, as well as the use of  some key functions and classes from the nltk library. Wheras a Logistic Regression classifier may not be the best classifier for this type of task, the project helps us to understand the challenges and possible solutions of the class imbalance problem, as well as the need to emphasize particular evaluation metrics over others, in particular problems.
